@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS on Simplilearn Online Courses called ReactJS For Beginners**
 
-- 👨‍💻 All of my projects are available at [amrlhfdzi.github.io](amrlhfdzi.github.io)
+- 👨‍💻 All of my projects are available at [amrlhfdzi.github.io](https://amrlhfdzi.github.io/)
 
 - 📫 How to reach me **amirulhafidzi47@@gmail.com**
 
