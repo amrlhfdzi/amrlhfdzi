@@ -9,16 +9,17 @@
 
 - 👨‍💻 All of my projects are available at [amrlhfdzi.github.io](https://amrlhfdzi.github.io/) (under maintenance)
 
-- 📫 How to reach me **amirulhafidzi47@@gmail.com**
+- 📫 How to reach me **amirulhafidzi47@gmail.com**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFpF1WKMME/9aYHC7n41JqTC-Dddk4opQ/edit?utm_content=DAFpF1WKMME&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFpF1WKMME/9aYHC7n41JqTC-Dddk4opQ/edit?utm_content=DAFpF1WKMME&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-- ⚡ Fun fact **I think I am a independent person**
+- ⚡ Fun fact **I am a fast learner, I possess excellent problem-solving capabilities and I can manage a significant work load **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amirul-hafidzi-mohd-fardhi-483810263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amirul hafidzi mohd fardhi" height="30" width="40" /></a>
 <a href="https://instagram.com/amirul_hafidzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amirul_hafidzi" height="30" width="40" /></a>
+<a href="https://discord.gg/632210153701113856" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="632210153701113856" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
